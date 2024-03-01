@@ -28,13 +28,13 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 
 </div> 
 
+##Projects
+
 
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 #Gostos
-#Ferramentas
 #Github Stats
-#Projetos
 
 <!--
 **eduardovrs/eduardovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
