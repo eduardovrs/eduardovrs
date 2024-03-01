@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Eduardo</h1>
+<h3 align="center">A Front-end Developer</h3>
 
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
