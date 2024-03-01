@@ -1,5 +1,11 @@
 # Eduardo Rodrigues 👨‍💻
 
+<div>
+  <img alt="code" src="./src/code.gif" width="100%"/>
+  Credit: https://www.behance.net/pixeljeff
+</div>
+
+
 [![Twitter Badge](https://img.shields.io/badge/-@edu_vrs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/edu_vrs)](https://twitter.com/edu_vrs)
 [![Instagram Badge](https://img.shields.io/badge/-@edu_vrs-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/edu_vrs)](https://instagram.com/edu_vrs)
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-vinícius-rodrigues-silva-0a88a4224/)](https://www.linkedin.com/in/eduardo-vinícius-rodrigues-silva-0a88a4224/)
@@ -11,11 +17,6 @@
 
 Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer from Brazil who loves tech and innovation. I work with **React**, **React Native**, **JavaScript** and **TypeScript**. Contact me if you have any doubts, I'll be glad to help if I can!
 -------
-
-<div>
-  <img alt="code" src="./src/code.gif" width="100%"/>
-</div>
-Credit: https://www.behance.net/pixeljeff
 
 ## Tools
 
