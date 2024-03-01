@@ -53,6 +53,11 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 
 ## 💬 About Me
 
+<div>
+  <p>- Learning :</p>
+  <p>✨ React & ReactNative</p>
+</div>
+
 - Learning :
 ✨ React & ReactNative
 - Hobbies :
