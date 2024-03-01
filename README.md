@@ -17,6 +17,18 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 </div>
 Credit: https://www.behance.net/pixeljeff
 
+## Tools
+
+<div align="center">   
+    
+  <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
+  <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382" />
+
+</div> 
+
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 #Gostos
