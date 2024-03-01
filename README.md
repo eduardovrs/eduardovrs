@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-vinícius-rodrigues-silva-0a88a4224/)](https://www.linkedin.com/in/eduardo-vinícius-rodrigues-silva-0a88a4224/)
 [![Gmail Badge](https://img.shields.io/badge/-edu.vinirodriues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edu.vinirodriues@gmail.com)](mailto:edu.vinirodriues@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/eduardovrs?label=Follow&style=social)](https://github.com/eduardovrs/?tab=follow)
----
 
 <div>
   <img alt="code" src="./src/code.gif" width="100%"/>
