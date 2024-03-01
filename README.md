@@ -15,6 +15,7 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 <div>
   <img alt="code" src="./src/code.gif" width="100%"/>
 </div>
+Credit: https://www.behance.net/pixeljeff
 
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
