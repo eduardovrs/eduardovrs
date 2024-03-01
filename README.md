@@ -31,9 +31,9 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 ## 🛠️ My Projects
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/eduardovrs/imhere" title="I'm Here!"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=imhere&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/eduardovrs/ToDoList" title="To Do List"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=ToDoList&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/eduardovrs/linkshortener" title="Link Shortener"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=linkshortener&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/eduardovrs/imhere" title="I'm Here!"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=imhere&theme=synthwave&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/eduardovrs/ToDoList" title="To Do List"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=ToDoList&theme=synthwave&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/eduardovrs/linkshortener" title="Link Shortener"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=linkshortener&theme=synthwave&border_color=61dafb&border_radius=10"></a>
 </div>
 
 
