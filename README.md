@@ -1,6 +1,7 @@
 # Eduardo Rodrigues 👨‍💻
 
 [![Twitter Badge](https://img.shields.io/badge/-@edu_vrs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/edu_vrs)](https://twitter.com/edu_vrs)
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-vinícius-rodrigues-silva-0a88a4224/)](https://www.linkedin.com/in/eduardo-vinícius-rodrigues-silva-0a88a4224/)
 [![Gmail Badge](https://img.shields.io/badge/-edu.vinirodriues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edu.vinirodriues@gmail.com)](mailto:edu.vinirodriues@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/eduardovrs?label=Follow&style=social)](https://github.com/eduardovrs/?tab=follow)
 ---
