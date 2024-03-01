@@ -9,7 +9,7 @@
 
 ## 👋 Introduction
 
-Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer from Brazil who loves tech and innovation. I work with **React**, **React Native**, **JavaScript** and **TypeScript**. Contact me if you have any personal or professional interest, I'll be glad to help if I can!
+Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer from Brazil who loves tech and innovation. I work with **React**, **React Native**, **JavaScript** and **TypeScript**. Contact me if you have any doubts, I'll be glad to help if I can!
 -------
 
 <div>
