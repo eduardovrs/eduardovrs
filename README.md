@@ -42,7 +42,7 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 <br/><br/><br/><br/><br/><br/>
 
 
-## Stats
+## 📊 Stats
 
 <div width="100%" align="center">
 
