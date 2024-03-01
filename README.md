@@ -25,7 +25,7 @@ Credit: https://www.behance.net/pixeljeff
   <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=4f2382" />
   <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382" />
   <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
-  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&style=for-the-badge&logo=react_native&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&style=for-the-badge&logo=react&color=4f2382" />  
 
 </div> 
 
