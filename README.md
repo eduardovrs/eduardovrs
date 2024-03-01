@@ -17,6 +17,7 @@
 Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer from Brazil who loves tech and innovation. I work with **React**, **React Native**, **JavaScript** and **TypeScript**. Contact me if you have any doubts, I'll be glad to help if I can!
 
 
+
 ## 🔨 Tools
 <div align="center">   
 
@@ -27,6 +28,7 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
   <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
 
 </div> 
+
 
 
 ## 🛠️ My Projects
@@ -49,6 +51,7 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=eduardovrs&hide_border=true&background=00000000&border=f368e0&stroke=f368e0&ring=f368e0&fire=f368e0&currStreakNum=f368e0&sideNums=f368e0&currStreakLabel=f368e0&sideLabels=f368e0&dates=f368e0)](https://git.io/streak-stats"  width="390"/>
   
 </div>
+
 
 
 ## 💬 About Me
