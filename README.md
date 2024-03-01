@@ -40,8 +40,6 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
     <a align="left" href="https://github.com/eduardovrs/linkshortener" title="Link Shortener"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=linkshortener&theme=synthwave&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
-
 
 ## 📊 Stats
 
