@@ -21,11 +21,11 @@ Credit: https://www.behance.net/pixeljeff
 
 <div align="center">   
     
-  <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382" />
-  <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
   <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=4f2382" />
   <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=4f2382" />
-  <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382" />
+  <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
+  <img src="https://img.shields.io/static/v1?label=&message=REACTNATIVE&style=for-the-badge&logo=reactnative&color=4f2382" />
 
 </div> 
 
