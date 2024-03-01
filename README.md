@@ -1,4 +1,4 @@
-# Eduardo Rodrigues 👨‍💻
+# Eduardo Rodrigues 👨🏽‍💻
 
 [![Twitter Badge](https://img.shields.io/badge/-@edu_vrs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/edu_vrs)](https://twitter.com/edu_vrs)
 [![Instagram Badge](https://img.shields.io/badge/-@edu_vrs-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/edu_vrs)](https://instagram.com/edu_vrs)
