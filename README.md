@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs)](https://github.com/anuraghazra/github-readme-stats)
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
