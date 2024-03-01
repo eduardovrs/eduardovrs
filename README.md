@@ -12,6 +12,10 @@
 ### I'm Eduardo Rodrigues, I am a Front-end developer from Brazil who loves tech and.
 -------
 
+<div>
+  <img alt="code" src="./src/code.gif" width="100%"/>
+</div>
+
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
