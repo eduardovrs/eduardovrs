@@ -7,6 +7,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/eduardovrs?label=Follow&style=social)](https://github.com/eduardovrs/?tab=follow)
 ---
 
+## Hi there 👋,
+
+### I'm Eduardo Rodrigues, I am a Front-end developer from Brazil who loves tech and.
+-------
+
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
