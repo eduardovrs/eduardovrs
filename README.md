@@ -40,7 +40,7 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 </div>
 
 ## Stats
-<div align="center">
+<div width="100%" align="center">
   
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
