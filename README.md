@@ -31,7 +31,7 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 ## 🛠️ My Projects
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/eduardovrs/imhere" title="I'm Here!"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=imhere&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/eduardovrs/imhere" title="I'm Here!"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=imhere&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 
