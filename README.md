@@ -38,9 +38,11 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 <div width="100%" align="center">
     <a align="left" href="https://github.com/eduardovrs/linkshortener" title="Link Shortener"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardovrs&repo=linkshortener&theme=synthwave&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 
 
 ## Stats
+
 <div width="100%" align="center">
 
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=eduardovrs&hide_border=true&background=00000000&border=f368e0&stroke=f368e0&ring=f368e0&fire=f368e0&currStreakNum=f368e0&sideNums=f368e0&currStreakLabel=f368e0&sideLabels=f368e0&dates=f368e0)](https://git.io/streak-stats"  width="390"/>
