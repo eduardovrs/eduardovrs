@@ -40,8 +40,6 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
 </div>
 <br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
-
 
 
 ## Stats
