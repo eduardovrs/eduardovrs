@@ -7,9 +7,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/eduardovrs?label=Follow&style=social)](https://github.com/eduardovrs/?tab=follow)
 ---
 
-## Hi there 👋,
+## 👋 Introduction
 
-### I'm Eduardo Rodrigues, I am a Front-end developer from Brazil who loves tech and.
+### Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer from Brazil who loves tech and innovation. I work with **React**, **React Native**, **JavaScript** and **TypeScript**. Contact me if you have any personal or professional interest, I'll be glad to help if I can!
 -------
 
 <div>
