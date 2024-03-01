@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-edu.vinirodriues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edu.vinirodriues@gmail.com)](mailto:edu.vinirodriues@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/eduardovrs?label=Follow&style=social)](https://github.com/eduardovrs/?tab=follow)
 
+
 <div>
   <img alt="code" src="./src/code.gif" width="100%"/>
   Credit: https://www.behance.net/pixeljeff
@@ -13,12 +14,10 @@
 
 
 ## 👋 Introduction
-
 Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer from Brazil who loves tech and innovation. I work with **React**, **React Native**, **JavaScript** and **TypeScript**. Contact me if you have any doubts, I'll be glad to help if I can!
--------
+
 
 ## Tools
-
 <div align="center">   
 
   <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&style=for-the-badge&logo=react&color=4f2382" />  
@@ -28,6 +27,7 @@ Hello everyone, I'm Eduardo Rodrigues. I am a Front-end Web and Mobile developer
   <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
 
 </div> 
+
 
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovrs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
